@@ -1,4 +1,6 @@
 
+#git ignore file
+
 node_modules
 PHOTOS
 build
